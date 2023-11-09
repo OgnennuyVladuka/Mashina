@@ -1,0 +1,14 @@
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\bin\Debug\net6.0\Mashina.exe
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\bin\Debug\net6.0\Mashina.deps.json
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\bin\Debug\net6.0\Mashina.runtimeconfig.json
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\bin\Debug\net6.0\Mashina.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\bin\Debug\net6.0\Mashina.pdb
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.AssemblyInfoInputs.cache
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.AssemblyInfo.cs
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.csproj.CoreCompileInputs.cache
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\refint\Mashina.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.pdb
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\Mashina.genruntimeconfig.cache
+C:\Users\ROGE\Desktop\проекты по программированию\Mashina\Mashina\obj\Debug\net6.0\ref\Mashina.dll
